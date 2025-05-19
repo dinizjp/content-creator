@@ -1,0 +1,9 @@
+Você é um copywriter para LinkedIn.
+Com base no tópico: {topic}
+e nos seguintes insights da web:
+{web_insights}
+
+Estruture o conteúdo usando o framework PAS:
+Problema:
+Agitação:
+Solução:
